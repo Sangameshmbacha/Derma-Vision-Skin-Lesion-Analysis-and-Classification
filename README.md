@@ -25,7 +25,7 @@ Output Layer: Uses Softmax to predict the class of skin disease.
 
 1)Classifies multiple types of skin cancer
 
-Built with CNN architecture for image-based diagnosis
+2)Built with CNN architecture for image-based diagnosis
 
 3)Trained on high-quality dermatological datasets
 
