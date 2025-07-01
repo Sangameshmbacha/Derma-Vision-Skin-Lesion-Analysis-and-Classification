@@ -1,4 +1,4 @@
-Derma Vision Skin Lesion Analysis and Classification
+# Derma Vision Skin Lesion Analysis and Classification
 
 Skin cancer is the uncontrolled growth of abnormal skin cells, often caused by damage from UV radiation. The most common types include:
 Melanoma
@@ -21,7 +21,7 @@ Flattening: Convert 2D data to 1D for the dense layers.
 Fully Connected Layers: Interpret the features and classify the skin lesion.
 Output Layer: Uses Softmax to predict the class of skin disease.
 
-Features:
+# Features:
 
 1)Classifies multiple types of skin cancer
 2)Built with CNN architecture for image-based diagnosis
@@ -29,7 +29,7 @@ Features:
 4)Real-time image processing and prediction
 5)High accuracy achieved with extensive model tuning
 
-Technologies Used in Our Project: 
+# Technologies Used in Our Project: 
 
 Python	
 TensorFlow 
@@ -37,12 +37,12 @@ OpenCV
 NumPy
 Matplotlib 
 
-Dataset
+# Dataset
 
 This project uses a publicly available skin cancer dataset. You can find similar datasets here:
 ISIC Archive
 
-Key Highlights
+# Key Highlights
 
 1)Medical Relevance: Helps in early detection of melanoma and other skin abnormalities.
 2)Preprocessing Techniques: Includes image resizing, normalization, and augmentation to improve model generalization.
